@@ -16,7 +16,7 @@ role: Postgraduate Student of Medical Informatics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Chevidence Lab
-  - name: Children's Hospital of Chongqing Medical University/Pediatric Research Institute/National Clinical Research Center for Child Health and Disorders
+  - name: Children's Hospital of Chongqing Medical University/National Clinical Research Center for Child Health and Disorders
   - name: Chongqing Medical University
 
 # Short bio (displayed in user profile at end of posts)
